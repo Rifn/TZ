@@ -6,7 +6,7 @@
 
   
 ## 文件说明  
-1.<font color=blue>指纹图像原始数据.zip：</font> 组委会所给原始数据，可以从官网下载 [[点击下载]](http://mathorcup.org/detail/2378)  
+1.<font color="blue">指纹图像原始数据.zip：</font> 组委会所给原始数据，可以从官网下载 [[点击下载]](http://mathorcup.org/detail/2378)  
 
 2.<font color=blue>data_计算结果.zip：</font> 本程序提供的计算结果，分别在不同穿透率下筛选出的指纹图像ID  
 
